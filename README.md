@@ -6,9 +6,10 @@
 - +1 416-317-7111
 
 ## Education 
-_Georgia Institute of Technology_ (Atlanta, GA) [Jan. 2020 - Present] 
+**Georgia Institute of Technology** (Atlanta, GA) [Jan. 2020 - Present] 
 - Masters of Science in Computer Science  
-_University of Toronto_ (Toronto, Canada) [Sep. 2011 - Jun. 2015] 
+
+**University of Toronto** (Toronto, Canada) [Sep. 2011 - Jun. 2015] 
 - Hons. Bachelor of Science (Physics) 
 
 ## Work
