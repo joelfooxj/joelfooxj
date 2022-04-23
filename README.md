@@ -7,9 +7,9 @@
 
 ## Education 
 ### Georgia Institute of Technology (Atlanta, GA) [Jan. 2020 - Present] 
-	- Masters of Science in Computer Science  
+- Masters of Science in Computer Science  
 ### University of Toronto (Toronto, Canada) [Sep. 2011 - Jun. 2015] 
-	- Hons. Bachelor of Science (Physics) 
+- Hons. Bachelor of Science (Physics) 
 
 ## Work
 
