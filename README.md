@@ -7,22 +7,22 @@
 
 ## Education 
 **Georgia Institute of Technology** - Atlanta, GA 
-- Jan. 2020 - Present 
+*Jan. 2020 - Present* 
 - Masters of Science in Computer Science  
 
 **University of Toronto** - Toronto, Canada
-- Sep. 2011 - Jun. 2015 
+*Sep. 2011 - Jun. 2015* 
 - Hons. Bachelor of Science (Physics) 
 
 ## Work
 **TouchBistro** - Toronto, Canada 
-- Sep. 2021 - Present
+*Sep. 2021 - Present*
 - Full-stack Software Engineer 
 - Typescript, React, Node, Postgresql/SQL
 - Worked on core infrastrcture features to support functionality across multiple business domains. 
 
 **Kinetica** - Toronto, Canada 
-- Jun. 2015 - Sep. 2021
+*Jun. 2015 - Sep. 2021*
 - Software Developer / IT Administrator / Marketing 
 - SRAMP SaaS (Apr. 2021 - Present) 
 	+ React, Flask, PyQT, Postgresql - Refactoring/Optimizing proprietary seismic analysis methodology in Python. 
