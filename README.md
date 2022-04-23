@@ -6,10 +6,10 @@
 - +1 416-317-7111
 
 ## Education 
-**Georgia Institute of Technology** (Atlanta, GA) [Jan. 2020 - Present] 
+**Georgia Institute of Technology** : Atlanta, GA *Jan. 2020 - Present* 
 - Masters of Science in Computer Science  
 
-**University of Toronto** (Toronto, Canada) [Sep. 2011 - Jun. 2015] 
+**University of Toronto** : Toronto, Canada *Sep. 2011 - Jun. 2015* 
 - Hons. Bachelor of Science (Physics) 
 
 ## Work
@@ -17,5 +17,6 @@
 ## Projects 
 
 ## Skills
-
+**Languages**: Python, Javascript ES6, C/C++, SQL 
+**Technologies**: React, Flask, Postgresql, AWS, Git
 
